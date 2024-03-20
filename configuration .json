@@ -1,0 +1,4 @@
+[{"tablename":"61241-0006", "index":"Elektrischer Strom, bei Abgabe an gewerbl.Anlagen", "sachschluessel": "GP09-351113", "forBelvis": true, "username":""},
+{"tablename":"61241-0006", "index":"Elektrischer Strom an Weiterverteiler (Fall 6)", "sachschluessel": "GP09-351111", "forBelvis": false, "password":""},
+{"tablename":"61241-0006", "index":"Elekt.Strom,b.Abgabe a.Sondervertragsk.,Niederspg", "sachschluessel": "GP09-351114", "forBelvis": false}
+]
